@@ -1,0 +1,33 @@
+8th Jan
+  Programming ? 
+      set of instructions.
+      low level-high level 
+      Python - high level 
+
+  function - perform some specific task
+            - build in / user defined 
+
+  print -- end --
+          sep  --
+
+data types and variables 
+    which kind of data we want to store 
+    numeric ,string , collection
+    1. int  - age 
+    2. float - decimal eg percetange
+    3. str - string eg name
+    4. colllection - list,tuple,set
+    5. map - dictionary
+
+variables --- indetifier , where we are storing the value
+        eg. age 
+            name
+            to_do_list
+      case-sensitive means age and Age not equal 
+      print  -Print
+
+
+      age =20  - age is variable 20 is value , value is numeric/int
+      name="dharmishtha" name is variable , value is dharmishtha it's string 
+      to_do_list = ['sleeping','shopping'] value is sleeping/shopping it's list
+      
