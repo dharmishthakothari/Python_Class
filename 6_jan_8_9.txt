@@ -30,4 +30,43 @@ variables --- indetifier , where we are storing the value
       age =20  - age is variable 20 is value , value is numeric/int
       name="dharmishtha" name is variable , value is dharmishtha it's string 
       to_do_list = ['sleeping','shopping'] value is sleeping/shopping it's list
-      
+
+10th Jan
+
+Variable
+data type
+
+type()  --- 
+
+age=20
+name="dharmishtha"
+per=70.45
+
+int age=20;
+string name="dharmishtha"
+
+--- To accept value from user we have to use input()
+
+  function ----To perfrom specific task 
+                1. built in  (print(), input(),type()
+                2. user defined 
+  function have paramter and return something
+1. parameters ---type(varaible) , print(variable,string) 
+2. return--- type class name ,input--string
+
+
+age  --- int
+percentage ---float
+type conversion/casting
+
+Lab task :   use f
+            using input function enter student data like name,age,marks,percetange,addresss and print it 
+            Proper formate
+      ***********************************************
+      Mahek
+      20
+      C G Road
+      90.32
+      ***********************************************
+
+
