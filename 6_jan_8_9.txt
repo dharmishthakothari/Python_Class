@@ -69,4 +69,21 @@ Lab task :   use f
       90.32
       ***********************************************
 
+13th Jan
+ -- accept 2 numbers from user and add those numbers and display sum
+  1. accept 2 numbers from user
+  2. add those numbers 
+3. display sum
+
+--accept 2 string from user and append/contact 
+
+casting /conversion from one data type to another 
+int
+float
+
+
+
+sum of 12 and 90 is 102 
+
+Lab Task : read operators ,perform all the programs
 
