@@ -146,6 +146,28 @@ comments ==== for documentation , it is non executable
 Single  == #
 multiline == '''
 
+22nd Jan
+
+Membership Operator --- in , not in
+
+Lab Task : use in and not in with lst_names 
+
+identity operator --- is , not is
+
+CONDITIONAL STMT
+  -- if    --- 
+        number positive 
+        if condition:
+            block_of_code
+
+
+Enter age from user and check user is adult or not
+>18
+  --if else
+  -- if elif
+
+Lab task : read conditional stmt
+
 
 
 
