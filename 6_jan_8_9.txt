@@ -168,7 +168,22 @@ Enter age from user and check user is adult or not
 
 Lab task : read conditional stmt
 
+24th Jan 
 
+-->No is Positive negative
+-->No is odd/even
 
+no%2==0
+
+enter 2 numbers from user and print greatest number
+
+--- age == 0-2 --infant
+           3-18 -- minor
+          19 - 50 - adult
+          51 - 70 - seniour
+          above 70 - super seniur 
+
+GIT hub
+Read -- nested if and loops 
 
 
