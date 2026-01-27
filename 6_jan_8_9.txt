@@ -186,4 +186,28 @@ enter 2 numbers from user and print greatest number
 GIT hub
 Read -- nested if and loops 
 
+27th Jan
+  -- GIT Hub 
+  -- Nested if (if within if)
+
+if condition:
+    if condition:
+      print("")
+
+to check user is able to donate blood 1. age >18 and weight >50
+2 input 
+
+check user is eligile for licence 1. age>18 2. learning 
+
+LabTask :  -- GIT Hub  -funda - commands - push/pull/add
+           --- User enters month and your program display no of days in that month 
+              eg. Enter Month --- March
+                  output  --31days
+                  2. Enter Month --- Feb
+                  output  --- 28/29 days
+          ---Check the enterd years is leap/not 
+              Enter year == 2000
+                            leap year
+                        ==1990
+                            not leap year
 
