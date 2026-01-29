@@ -211,3 +211,28 @@ LabTask :  -- GIT Hub  -funda - commands - push/pull/add
                         ==1990
                             not leap year
 
+
+29th Jan
+  -- when we have alternate options/condition then it is better to use match case
+     rather multile if-elif
+
+  entering marks from user and display grade accorudingly
+  marks  --100 -70--- A
+           69--60 --B
+           59--40 ---C
+          40--35 --pass
+
+
+Lab Taks : Convert month program into match case 
+
+---LOOPS 
+repeatation 
+2 types 
+while 
+for 
+
+1. FOR -- for var in range()
+          range(stop)
+          range(start,stop,step)     
+          by default start ==0
+              default step===1
