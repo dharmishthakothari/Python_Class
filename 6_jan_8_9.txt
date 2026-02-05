@@ -293,3 +293,49 @@ Lab Task : Prime number logic
   1-100 Prime number 
   while loop
 
+5th Feb 
+ -- for i in range(1,10)
+
+
+--- lst=[1,12,14,17,23]
+for i in lst:
+
+len -- length 
+
+
+while loop 
+while condition:
+  block_of_code
+
+print 1-10 
+
+diffrentiate for and while
+for -- no of iteration is known in advanced 
+while --- works as per user choice (eg. menu driven program)
+
+Lab task : while loop 
+
+multiplication table while 
+5 * 1 = 5
+5 * 2 = 10 
+5 * 3 = 15
+20
+25
+30
+35
+
+control statement 
+break   - terminate loop on perticular condition 
+continue - skip the current iteration based condition
+pass  -- placeholder -- does nothing - for syntax purpose
+
+leap program   --- year divided by 4 and not divided by 100 or year divided by 400 
+Menu driven pgram
+Number Guess programe
+
+
+
+
+
+
+
