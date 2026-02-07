@@ -333,9 +333,32 @@ leap program   --- year divided by 4 and not divided by 100 or year divided by 4
 Menu driven pgram
 Number Guess programe
 
+7th Feb 
+--number guessinng
+
+system generated number ==syn_num
+user number input ==user_num
+if user_num==sys_num:
+    you are winner
+else
+    you are losser
 
 
+Pattern Programs ---
+input=4
+   c=1
+r=1*    0 - 1
+r=2*  *  0-2
+r=3*  *  *  0-3
+r=4*  *  *  *  0-4
 
+r-c --2 loop  ---loop within loop nested loop
+for i in range(num) ---row
+  for j in range ---col
 
-
+Lab Task : number guessing --- range 1-100
+           4 4 4 4
+           3 3 3
+           2 2
+           1
 
