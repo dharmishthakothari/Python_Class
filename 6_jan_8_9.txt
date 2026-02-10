@@ -362,3 +362,44 @@ Lab Task : number guessing --- range 1-100
            2 2
            1
 
+10th Feb
+1
+3 5
+7 9 11
+13 15 17 19
+
+LabTask --- 
+input = 4
+*
+* *
+* * *
+* * * *
+* * *
+* *
+*
+
+operators  , conditional stmt (if,elif...) match , control stmt (pass,break,continue)
+loops , nested loops
+
+String ---- group of characters/letters
+"12334545"
+"Tops Technologies"
+---in build function/methods 
+-- slicing 
+--indexing
+
+
+T   0
+o   1
+p   2
+s   3
+    4 
+t   5
+e
+c
+h
+
+Lab Task : index(),endswith(),startswith(),strip()
+
+
+
