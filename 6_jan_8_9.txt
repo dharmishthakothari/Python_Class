@@ -399,7 +399,38 @@ e
 c
 h
 
+
+
+
 Lab Task : index(),endswith(),startswith(),strip()
 
+12th Feb
+index starts from 0 
+str1="tops"
+str1[3]
+
+name=tops
+letter    index
+t          0
+o          1
+p          2
+s          3
+2nd index
+name[2]
+0th index
+name[0]
+
+0-3
+name[0]
+name[1]
+...
+name[3]
+
+for i in range(len(name)):
+  print(name[i])
 
 
+Lab Task : print reverse string thru index
+2. try -ve index
+
+  
