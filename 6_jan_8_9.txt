@@ -433,4 +433,48 @@ for i in range(len(name)):
 Lab Task : print reverse string thru index
 2. try -ve index
 
-  
+  14th Feb
+
+T  0  -10
+o  1  -9
+p  2  -8
+s  3   -6
+    4  -5
+t  5  -4
+e  6  -3
+c  7  -2
+h  8  -1
+
+
+string slicing --- part of string 
+name[start position : end position : step]
+
+
+name="Tops Technolgies"
+1. from 0 to 5th leeter 
+name[0:5]
+
+2 print letters from 5 to 9 
+name[5:10]
+
+3. print alternate letters from 2 to 10 
+name[2:11:2]
+
+4. print letters upto 7 
+name[:7]
+
+5. print alternate letter upto 7 
+name[:7:2]
+
+6. print string from letter 5
+name[5:]
+
+7. print 
+
+8. witouit using function reverse string
+name[::-1]
+
+9. 
+Dharmishtha ---- aharmishthD
+Zankhana : aankhanZ
+
