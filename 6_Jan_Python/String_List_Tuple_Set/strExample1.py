@@ -1,0 +1,10 @@
+name=input("Enter Name ")
+
+ans=name.upper()
+print(ans)
+ans=name.lower()
+print(ans)
+print(name.title())
+print(name.capitalize())
+print(name.count("private"))
+print(name.find("T"))
