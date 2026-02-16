@@ -1,0 +1,1 @@
+print("Hello World","Good Morning ","This is Python class",sep="**")

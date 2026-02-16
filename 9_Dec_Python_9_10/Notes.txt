@@ -1,0 +1,50 @@
+9th Dec 
+	Python Intruduction 
+		Programming Language 
+		OOPS 
+		High level Programming Language 
+		Third party libraries 
+		Dynamic Langauge 
+		
+		Programming
+		Versitile 
+		Easy language 
+		no declaration 
+		Web Development  , Testing , Analyse the data 
+	
+	Practicals 
+		Python install
+		programming Visual Studio
+
+		print() - 
+		input() - 
+
+	function - to perform specific task e.g print , accept the number from input , factorial , 
+		1. in build 
+		2. user defined 
+
+		print with end , sep
+
+		functions  - parameters 
+				name
+				return type
+
+		example : print - name
+			 sep,end - paramter
+			 None - return type
+
+			input - name
+			prompt/str - parameter
+			str(string) - return type
+
+	comments - non executable part , for documentation purpose 
+			# - single line
+			''' - multiline comments 
+
+
+	variable - indetifier ,where we storing value ,values can be change
+		   eg. name , age
+
+	
+
+		

@@ -1,0 +1,5 @@
+print("Hello World",end=" ")
+print("Have a great day",end=" ")
+print("This is Python class",end=" ")
+print("Hello World ",end=" * ")
+print("Good Morning All ")
