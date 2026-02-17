@@ -478,3 +478,36 @@ name[::-1]
 Dharmishtha ---- aharmishthD
 Zankhana : aankhanZ
 
+17th Feb
+
+collection ---- List , tuple , set 
+1. list ---- orderd and mutable/change  
+-- list declare  ...[]
+e.g list of numbers 
+   lst_numbers=[1,2,44,56,78]
+list of cities 
+  lst_city=['Ahmedabad','Rajkot',''surat']
+- lst=[1,2,'sdsad',45.234,'adfasd']
+
+print(lst)
+name="tops"
+t
+o
+p
+s
+
+
+--- list element can also access thru index 
+e.g lst_city[1]
+--- list element can also access thru slicing
+e.g lst_city[1:]
+
+
+lst_city=['ahmebadbad','surat']
+
+for i in lst_city:
+  print(i)
+
+LabTask : read methods of list (append,extends , pop , clear , insert)
+
+
