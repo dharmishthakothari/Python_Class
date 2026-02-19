@@ -510,4 +510,25 @@ for i in lst_city:
 
 LabTask : read methods of list (append,extends , pop , clear , insert)
 
+19th Feb
+--append - add element at the end of the list 
+--extends - add list
+--clear - remove all elements ---blank list 
+--insert -- data/element 
+
+--- indexes , iterate , methods - inbuild methods 
+
+append vs extends 
+Lab Task : remove , copy , reverse and sort with practicals 
+
+stmt = "This is python world.Python is easy to leanr and Python is widely used"
+output = python == 3
+
+TUPLE ---- it immutable 
+  ()
+--- list vs tuple 
+
+--read tuple 
+--list comprehensive 
+
 
