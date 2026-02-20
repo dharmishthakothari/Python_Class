@@ -1,50 +1,244 @@
-9th Dec 
-	Python Intruduction 
-		Programming Language 
-		OOPS 
-		High level Programming Language 
-		Third party libraries 
-		Dynamic Langauge 
+Python features 
+	1. coding language ,interacting
+	2. simple , high level language 
+	3. easy language 
+	4. libararies 
+	5. integration 
+	6. verstile / widely use
+	7. no declaration 
+
+print   --- to print something on console 
+		print("Hello World")
+	function ?
+		- perform specific task 
+		- reusable 
+		- in build (library)/user defined (hum banayenge)
+		  print()           / 
+		  end-sep		
+
+input   --- accept input from user
+
+input --- paramter  --- prompt -Object	
+	  return    --- str
+print --- paramter --- values/ojbect
+		    --sep
+                    --end
+	 return  --- None
+
+11th Feb
+	Introduction 
+		- programming language 		
+		- easy language 
+		- case sensitive 
+		- integrate with third party tool/library
+		- verstile
+		- widely used
+		- no declaration 
+
+ function (to perform specific task)
+	   in build - already thr in libary
+	   user defined - created by user/programer
 		
-		Programming
-		Versitile 
-		Easy language 
-		no declaration 
-		Web Development  , Testing , Analyse the data 
+	  paramters 
+	  return type	
+print  --- To print something	sep , end 
+input ---  to accept input
+
+variable --- idetifier ,whose value can be change
+
+print(name)  -- name is variable
+print("name") -- name is string
+
+print --- 
+input --- accept value from user 
+variable -- idetifier 
+
+print 5 stetements use sep and end paramter 
+
+13th Feb
+-- Variables ? -- idetifier - rules  - case sensitive,starts with letter  , _ is allowed 
+ 
+Data types 
+ -- which type of data are stroing in variable 
+ ---eg mobile_no  , email , todolist ,percentage 
+- numeric --- int,float , double
+--collection - list , tuple ,set ...
+-map - dictionary   
+1. add 2 numbers 
+
+Convert into another datatype
+function - int , float 
+number1
+number2
+
+no1=10
+no2=20
+output ---- addition of 10 and 20 is 30
+
+Operators ----
+1. Arithmatic Operator  - +,-,/,* , //(floor division) , % (moduls) , ** (exponenet)
+2. Relational Operators 
+3. Assignment Operators  ---- 
+4. Identity Operator
+5. Membership Operator
+6. Bitwise operator
+
+
+16th Feb
+ --- operators +,-,/,*
+--print formate
+--int , flaot 
+
+% -- moduls --- reminder 
+10/5 == 2
+10%5 = 0
+
+10/4 = 2.....
+10%4 = 2
+
+15/3 = 5
+15%3 = 0
+
+15/2 = 7.5
+15%2 = 1
+
+
+** --- 2^3 = 2**3 =  8
+       2^4 = 2**4 = 16
+       3^4 = 3**4 = 81
 	
-	Practicals 
-		Python install
-		programming Visual Studio
 
-		print() - 
-		input() - 
+Assignment Operator ==== a=10 
+increment a by 5
+a+=5
 
-	function - to perform specific task e.g print , accept the number from input , factorial , 
-		1. in build 
-		2. user defined 
++=,-=,*=,/=,
 
-		print with end , sep
+Relational or comparison operator 
+> , < ,>= ,<= , == ,!=
 
-		functions  - parameters 
-				name
-				return type
+no1>no2
+no1<no2
+no1>=no2
+...
 
-		example : print - name
-			 sep,end - paramter
-			 None - return type
+no1=5 
+no2 =10
 
-			input - name
-			prompt/str - parameter
-			str(string) - return type
-
-	comments - non executable part , for documentation purpose 
-			# - single line
-			''' - multiline comments 
+5 > 10 false
+5 <  10 true
+5 >= 10 false
+5 <= 10 true
+5 == 10 false
+5 != 10 true
 
 
-	variable - indetifier ,where we storing value ,values can be change
-		   eg. name , age
+Logical Operator  - 
+combine 2 or more condition then we have to use this operator
 
-	
+and ,or ,not 
+check no1 is greater then no2 and no1 is greater then 100
+     no1>no2 and no>100	 --- both condition must be true then it will give True otherwise false
+no1 = 110  no2 = 200
+110>200 and 110>100  === false and true = false
 
-		
+no1 = 110 no2=100
+110>100 and 110>100  == True and True  = true
+
+
+stmt 2 = check no1 is greater then no2 or no1 is greater then 100
+     no1>no2 or no1>100  --- either of the condition is true , will give true output
+
+Membership operator :  in and not in 
+Identity operator :  is and not is 
+
+
+id()
+type() 
+
+bitwise ==== 
+a= 10 
+b=5
+binary of 10 --- 1010
+binary of 5 --- 0101
+
+| (or)   1010 | 0101 === 1111  =15 
+& (and)  1010 & 0101 === 0000  = 0
+
+10====1010
+|
+5==== 0101
+===== 1111
+
+10====1010
+&
+5==== 0101
+===== 0000
+
+a=18
+b=22
+18 ===== 0001 0010
+22 ===== 0001 0110
+|  ===== 0001 0110 == 22
+&  ===== 0001 0010 == 18
+
+
+Conditional stmt ---- when we have options/alternatives 
+---if stmt   if condition:
+				block_of_stmt
+		100>20
+			100
+		20>100
+
+---if else
+--if -elif -else
+--nested if 
+---accept 2 values from user and print bigger value
+
+---accept age from user and print whether user is able to donate blood or not
+(creteria age must be greater then 18)
+
+20th Feb
+if ...elif
+print Day name as user enters the day number
+eg. Enter number (1-7)
+2
+output : Tuesday
+Enter Number(1-7) 5
+output Friday
+1-Monday , 2-Tuesday 3-Wednesday ....
+
+2nd Task : age 0-2 - infant
+			   3-17 - minor
+			   18-50 - adult
+				51-70 - seniur
+				71 - super seniur
+age>=0 and age<=2 
+
+3rd Task : user enters month name and program prints no of days
+eg.
+Enter Month : March
+output 31 days
+Enter Month : June
+output 30 days
+Enter Month : February
+output 28/29 days
+
+
+match case --- when you have muitple conditions/options then use match case 
+easy to read
+
+
+Lab Task : match case with age program,month 
+nested if --- if within if 
+condition1 -true then and then check condtion 2
+
+1. enter age and learning lience 
+age>18
+learning==yes
+apply for licence 
+
+
+Loop : --- multilpe 
+
+
