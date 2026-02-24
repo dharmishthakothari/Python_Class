@@ -537,3 +537,17 @@ List , Tuple
 lst=[1,2,3,4]
 for i in lst:
   print(i)
+
+24th Feb 
+set  -  collection 
+        {}
+        unique values 
+        set1={1,2,3,4,1,2}
+        {1,2,3,4}
+
+dictionary  ---- 
+  key and value pair
+  key must unique , value may be dublicate 
+  {}
+
+
