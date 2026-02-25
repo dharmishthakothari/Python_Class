@@ -279,11 +279,44 @@ Lab Task :  1. sum of even number from 1-1000
 			if i%5==0 and i%7==0
 			3. multilication table of user enterd number 
 
+25th Feb 
+	while condition:
+		block_stmt
+
+print 1-10 numbers with while loop
+i=0
+while i<=10:
+	print(i)
+	i+=1
+
+control stmt 
+
+----break , continue and pass
+break --- based one condition break the loop
+continue --- based on condition skip the current iteration and run next iteration
+pass --- placeholder ,  next time implement 
+if condition:
+	pass
 while 
+
+when for and when while 
+for  --- no of iteration known in advanced 
+while --- not know in advance
+
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+5. Exit
+
+
+
+
 logi builiding 
 23654  === 45632
 pattern 
 break ,continue , pass
+
 
 
 
