@@ -550,4 +550,15 @@ dictionary  ----
   key must unique , value may be dublicate 
   {}
 
+26th feb
+--- dictionary  -- items , values , keys 
+key-value
+
+riya@gmail.com --- Riya , 20 , CGRoad , 120
+kavya@gmail.com ---Kavya , 20 , Nikol , 130
+dict1={"riya@gmail.com":["Riya",20,"C G road",120] ,
+      "kavya@gmail,com":["Kavya",20,"Nikol",130],
+      "kunal@gmail.com":["Kunal",22,"S G Highway",230]}
+
+
 
