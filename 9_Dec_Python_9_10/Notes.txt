@@ -309,13 +309,73 @@ while --- not know in advance
 4. Division
 5. Exit
 
+27th Feb 
+--for , while
+---number guessing 
+system_no_generate ===10
+Guess the number ==3
+You are worng try again ==5 
+You are worng try again ==15
+You are worng try again ==10
+You win
+
+
+logi builiding  -- prime number 
+
+number is divide by 1 and iteself
+ ----
+input = 17 ---17 is prime number
+	17%2==0 ? false
+	17%3==0 ? false
+	17%4==0 ? false
+	...
+	...
+	17%16==0 false  ---prime
+
+
+input = 21 --21 is not prime number
+	21%2==0 ? false
+	21%3==0 ? True
+	break
+		no is not prime
+input 55 
+	55%2==0 False
+	55%3==0 F
+	55%4 ==0 F
+	55 %5==0 T
+	break
+loop --for 2 to number-1
+---
+
+2 3 5 7 11 13 
+
+nested loop -- loop within loop 
+
+count number of digits (without using function)
+input == 1900 
+output 4
+intput 101
+output 3
+
+input = 3567
+	356
+	35
+	3
+input 234567
+	23456
+	2345
+	234
+	23
+	2
+lab Task :  logic to find no of digits from given number.
+-----logic fibo series 
 
 
 
-logi builiding 
 23654  === 45632
 pattern 
 break ,continue , pass
+
 
 
 
