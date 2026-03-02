@@ -376,6 +376,43 @@ lab Task :  logic to find no of digits from given number.
 pattern 
 break ,continue , pass
 
+2rd march 
+
+fibo series ---- 0 1 1 2 3 5 8 13 21....
+input = 5
+0 1 1 
+sum = f+s
+f=s
+s=sum
+
+----
+Strings ---- ? sentences , group of characters 
+name="Tops Technolgies"
+name=123
+name="123"
+
+string --- immutable - 
+in build - methods
+indexing
+slicing
+
+index should be display with [] and it always starts 0 and upto length-1
+
+slicing ---partition 
+2-6 letters 
+upto 6 letters 
+last 4 letters 
+
+slicing name[start:end:step]
+(letters from 2 to 6th) - Tops Tech
+
+Pratham ---- mrathaP
+Tops --- sopT
+Dharmishtha --- aharmishthD
+
+name[0]-name[1:len(name)	-2]:name[len
+start - mid - end
+end + mid + start
 
 
 
