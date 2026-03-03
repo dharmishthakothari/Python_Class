@@ -561,4 +561,49 @@ dict1={"riya@gmail.com":["Riya",20,"C G road",120] ,
       "kunal@gmail.com":["Kunal",22,"S G Highway",230]}
 
 
+3rd March 
+-Dictionary filtering 
 
+--- display car data in formated form
+---Ask user which type of cars want to see (EV,Petrol,Diesel) and accouring to display details
+---User ask model name and display car details 
+
+car_data = 
+EV -->
+    Maruti 
+        Baleno - price , Model
+        sCross - price , Module
+    Hundai
+        i10 -   price , Model
+        creta - price , Model
+    KIA
+        seltos -   price , Model
+        sonate - price , Model
+Petrol -->
+    Maruti 
+        Baleno - price , Model
+        sCross - price , Module
+    Hundai
+        i10 -   price , Model
+        creta - price , Model
+    KIA
+        seltos -   price , Model
+        sonate - price , Model
+    TATA 
+        Alroz - price , Model
+        Punch - price , model
+
+Deisel -->
+    Maruti 
+        Baleno - price , Model
+        sCross - price , Module
+    Hundai
+        i10 -   price , Model
+        creta - price , Model
+    KIA
+        seltos -   price , Model
+        sonate - price , Model
+
+nested dictionary 
+
+I have to check this program in next classs 
