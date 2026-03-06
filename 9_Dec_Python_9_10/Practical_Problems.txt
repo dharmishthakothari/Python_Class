@@ -1,0 +1,9 @@
+1. Print half of String in Uppercase
+2. Find frequency of letter from given string
+3. Write a program to print length of string without len function.
+4. Accept a string from the user and print it in uppercase if the length of the string is greater than 5, else print it in lowercase using a function.
+5. Write a python program to convert hours into days
+6. Count Even and Odd Numbers from given range
+7. Convert a month name to a number of days. with if else and match case
+8. Count no of even and odd digits from given number.
+9. Convert temperature, degrees Fahrenheit to degrees Celsius and vice versa. C = (5/9) * (F - 32) &  F = C * 9/5 + 32
