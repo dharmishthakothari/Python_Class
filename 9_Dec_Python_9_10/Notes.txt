@@ -414,6 +414,57 @@ name[0]-name[1:len(name)	-2]:name[len
 start - mid - end
 end + mid + start
 
+6th March :::
+String --accessing , indexing ,slicing 
+inbuilt methods 
+
+Methods/functions ---String inbuilt 
+Generalize 
+len,  --- to find length of string
+type  --- kaunse type ka class (int,float...)
+input  --- accept input from user
+id
+print
+function have specific task ----- 
+	funtion name  --- count							upper			find
+	parameters   --- x, start (op) end(op)			no paramer		x,start(op),end(op)
+	return type  --- int							string			int 
+
+	
+inbuilt - already thr and we have to use those functions
+name="Dharmishtha"
+upper
+lower  ---- try
+title
+capitlize
+count  --
+replace
+strip
+split
+
+Labstask ---- startswith,endswith 
+strCNo="765432"
+strCNo1="+91435345435"
+strCNo.startswith("+91")
+strCNo1.startswith("+91")
+email="test@gmail.com"
+email.endswith(".com")
+email="dkfjshfksdjf"
+email.endswith(".com")
+
+2. find vs index
+3. count a without method 
+
+find string contains vowel or not/a 
+input - dharmishtha
+output - string contains a
+	
+input - tops tech
+output string does'nt contains a 
+
+
+
+
 
 
 
