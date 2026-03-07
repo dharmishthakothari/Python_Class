@@ -611,5 +611,31 @@ I have to check this program in next classs
 5th March
 Zip and unZip
 
+7th March 
+
+Lab Task : 58)Write a Python program to combine values in python list of dictionaries.
+Sample data: [{'item': 'item1', 'amount': 400}, {'item': 'item2', 'amount':
+300}, o {'item': 'item1', 'amount': 750}]
+Expected Output:
+• Counter ({'item1': 1150, 'item2': 300})
+
+will check on Tuesday 
+
+Functions --- 
+print
+len
+input 
+sum
+keys
+values
+function means ? has specific task  (standard , library - thrid party (install - numpy,panda,django,rest api), user defined)
+in built fucntions  - already defined hain 
+user defined --- hum banayenge 
+
+def is keyword thru which we can create function 
+
+function name               upper            input      append
+function parameter          no param          any       object 
+function return type        string            string    None
 
 
