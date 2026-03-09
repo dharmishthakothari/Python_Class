@@ -462,9 +462,31 @@ output - string contains a
 input - tops tech
 output string does'nt contains a 
 
+9th March 
+--- 
+
+List --- collection
+			mutable
+			index
+			slicing
+			ordered
+			[]
+
+list/tuple/set/dictionary ---- collection 
+
+Lab Task : Find length of string from list [1,2,3,'Tops','Morning','Winning']
+ans---Tops---->4
+	  Morning--->7
+	Winning-->7
+
+Lab Task : from list convert half list into uppercase 
+input --- ['vivek','Nikunj','tufel','MIHIR','praTHAM']
+
+output --- ['VI','NIK','TU','MI','PRA']
 
 
+indexing [i]
 
-
+slicing 
 
 
