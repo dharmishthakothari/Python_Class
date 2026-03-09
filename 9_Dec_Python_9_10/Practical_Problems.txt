@@ -7,3 +7,9 @@
 7. Convert a month name to a number of days. with if else and match case
 8. Count no of even and odd digits from given number.
 9. Convert temperature, degrees Fahrenheit to degrees Celsius and vice versa. C = (5/9) * (F - 32) &  F = C * 9/5 + 32
+
+LIST
+
+1. Write a program to sort a list of strings by their length e.g ['apple', 'banana', 'kiwi', 'orange'] output : ['kiwi', 'apple', 'orange', 'banana']
+2. Write a program to check if a list of strings is a valid list of email addresses. eg. ['test@gmail.com','te@rere'] output invalid email list
+3.Write a program to check all list elements are alphabetics or not.E.g ["ewr","wewe","123"] output False ["asd","wer","qqq","ddd"] output True
