@@ -638,4 +638,11 @@ function name               upper            input      append
 function parameter          no param          any       object 
 function return type        string            string    None
 
+10th March
 
+3 types/paramters  
+i) default       ----  default arguments must be at the end of parameters list 
+ii) variable    
+iii) keyword argument 
+
+Lab Task : function programs , read about the variable argument and keyword argument
