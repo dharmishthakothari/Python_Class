@@ -489,4 +489,11 @@ indexing [i]
 
 slicing 
 
+11th March 
+--- list -iterate - index 
+
+labTask : count,index ,insert ,
+
+second highest element [12,22,1,5]
+12
 
