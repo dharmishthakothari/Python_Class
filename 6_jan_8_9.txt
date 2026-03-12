@@ -646,3 +646,30 @@ ii) variable
 iii) keyword argument 
 
 Lab Task : function programs , read about the variable argument and keyword argument
+
+12th March 
+
+---variable argument
+    create function called addition
+    call  --addition(1,2,3)  --- ans-6
+            addition(11,22)  ---- ans==3
+            addition(2,2,2,2) ---- ans=8
+
+same function name different argument 
+- 
+
+sum/no of elements ....
+
+Lab Task :  recreat average function as now while calling average function arguments may be string
+eg. average(1,2,'Netra',3)  ---3 
+
+
+average(11,22)
+average(11,2,3,4)
+
+average(11,22,'dssfd')
+
+2Lab Task :1 function --- employeeDetails may contains id,name,salary,age,email
+2 ..filter/fetch those employee details who got more than 20000
+
+3--keyword
