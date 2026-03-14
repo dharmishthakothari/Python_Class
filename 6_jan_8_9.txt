@@ -673,3 +673,25 @@ average(11,22,'dssfd')
 2 ..filter/fetch those employee details who got more than 20000
 
 3--keyword
+
+14th March
+def studentDetails(*args)
+studentDetails(11,'fsdfsdf','sdasd')
+studentDetails(12,'dsfsdf','asdasd',23)
+
+
+keyargument --- name & value
+studentDetails(id=11,name='Riya',address='Paldi')
+studentDetails(id=12,name='Netra',address='CGRoad',age=20)
+def studentDetails(**kwargs):
+  print(kwargs)
+
+
+Module --- collection of python code, python file 
+
+Libraries 
+--standard  /in-built - already in python library ....random,os,sys,requests,math,datetime
+-- user defined --- je appde banavia 
+---external ---install  ---pip install numpy
+
+
