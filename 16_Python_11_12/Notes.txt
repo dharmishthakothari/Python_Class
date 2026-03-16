@@ -1,0 +1,45 @@
+Python Introduction 
+----Easy Language
+---Versatile
+---easy to intergrate with other libraries 
+---concise/code 
+--no declaration 
+
+---basics 
+print , type , datatype , variables
+input , ...
+operators -arithmatic , logical , bitwise , relational ,membership ,identity 
+
+conditional stmt (if,if-else , if-elif,nested it....)
+match case 
+
+loops (for ,while)
+
+logic buidling programs 
+patterns 
+
+String ---indexing,slicing ,methods 
+
+collection 
+--list   -indexing , slicing ,methods ,comprehenstion
+--tuple
+set 
+dictionary 
+
+map,reduce,filter 
+
+functions (3 paramter)
+lambda function 
+
+file handling
+json file 
+
+Exceptions handling
+
+OOPS concept  
+
+FUNCTION ?
+---to perfrom perticular task 
+--system/library // user defined 
+
+print() --- end
