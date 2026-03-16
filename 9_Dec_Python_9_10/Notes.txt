@@ -497,3 +497,28 @@ labTask : count,index ,insert ,
 second highest element [12,22,1,5]
 12
 
+16th March 
+---List -- collection of elements 
+---List can be index , slicing , mutable 
+
+
+--List comprehensive/comprehenstion  ---
+all work with list but in short form , readable form 
+--iterate list
+lst1=[1,2,3,4]
+for i in lst1:
+	print(i)
+
+list1 copy list2
+for i in list1:
+	list2.append(i)
+
+[expression for item in iterable]
+list2=[i for i in list1]
+
+
+TUPLE ----- 
+
+lst_countries=['india','france','usa','china']
+lst_capital=['delhi','paris','new york','shangai']
+
