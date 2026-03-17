@@ -694,4 +694,19 @@ Libraries
 -- user defined --- je appde banavia 
 ---external ---install  ---pip install numpy
 
+17th March
+
+Lab Task : practice modules (os,sys,datetime)
+recursive function - factorial , fibo series ,sum of given range
+
+lambda function 
+annonymus function --- koin name na ho
+--syntax 
+lambda argument:expression
+
+--arguments may be more then one but expression is always one
+--inline function
+-use for simple calculation not for complex 
+lambda x,y=x+y
+
 
