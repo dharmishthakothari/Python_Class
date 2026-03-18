@@ -43,3 +43,39 @@ FUNCTION ?
 --system/library // user defined 
 
 print() --- end
+
+---18th March 
+
+-- print --- to print on console , 2 paramters end,sep 
+
+escape sequ.
+Special letter -new line \n(new line) n(letter)
+\t  ---tab
+\n  ---new line
+\"  --- "
+\'
+\\ ---\
+
+Hello "World"
+print("Hello World")
+Hello
+world
+print("helloworld")
+
+name=input("Enter name")
+age=input("Enter age")
+address=input("Enter address")
+a=input("gfdkgjfdkgjf")
+
+variable ---- indetifier to store value,it may be change
+
+---print ---f-formating --{varabile}
+
+type ---function --returns which data type it is 
+
+data type ----which kind of data stored 
+
+numeric --- int , float (decimal values)
+string --- group of chracters 
+collection --- list , set , map ,tuple
+
