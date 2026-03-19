@@ -710,3 +710,10 @@ lambda argument:expression
 lambda x,y=x+y
 
 
+19th March 
+
+map
+filter 
+
+Lab Task : replace function with lambda in filter example
+
