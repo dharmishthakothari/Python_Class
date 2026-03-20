@@ -79,3 +79,26 @@ numeric --- int , float (decimal values)
 string --- group of chracters 
 collection --- list , set , map ,tuple
 
+20th March 
+
+input 2 numbers from user and add/sum 
+
+input ---- accept string from user 
+int ---- convert string into integer 
+
+type ----
+
+Operators 
+Arithmatic ---- +,-,*,/,%(modules-reminder) ,// (floor division) , ** (exponent) 4**2 , 5**3 125
+Logical operators --- and or not
+relational operators --- >,<,>=,<=,==,!= 
+membership operators ---in, not in 
+identity operator ---is , not is 
+bitwise ,
+
+Lab Task ----- 
+1. Arithmatic operators with float values +,-,*,/
+2. read logical operators  
+
+
+
