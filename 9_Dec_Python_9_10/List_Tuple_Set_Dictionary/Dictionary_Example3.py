@@ -1,0 +1,9 @@
+student_details={"name":"Pratham",
+"age":20,
+"marks":[90,50,70]
+}
+lst_marks=student_details["marks"]
+total_marks=sum(lst_marks)
+print(total_marks)
+student_details["total"]=total_marks
+print(student_details)
