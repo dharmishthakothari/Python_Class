@@ -535,5 +535,64 @@ i={1,2,3}
 Dictionary --- key,value
 {key:value , key1:value1 , key2:value2}
 
+20th march 
+---
+
+student_details : name ,age,marks---[]
+
+{"name":"Pratham",
+"age":20,
+"marks":[90,50,70]
+}
+Calculate total marks:
+
+-----
+we have multiple employees with name,dept,salary,age ,key empid
+
+
+car_data = 
+EV -->
+    Maruti 
+        Baleno - price , Model
+        sCross - price , Module
+    Hundai
+        i10 -   price , Model
+        creta - price , Model
+    KIA
+        seltos -   price , Model
+        sonate - price , Model
+Petrol -->
+    Maruti 
+        Baleno - price , Model
+        sCross - price , Module
+    Hundai
+        i10 -   price , Model
+        creta - price , Model
+    KIA
+        seltos -   price , Model
+        sonate - price , Model
+    TATA 
+        Alroz - price , Model
+        Punch - price , model
+
+Deisel -->
+    Maruti 
+        Baleno - price , Model
+        sCross - price , Module
+    Hundai
+        i10 -   price , Model
+        creta - price , Model
+    KIA
+        seltos -   price , Model
+        sonate - price , Model
+
+You have to create dictionary based these data....
+---When user enters Diesel then all diesel cars must display.
+---When user enter Seltos then all seltos car of petrol,diesal,ev must display
+Menu driven program 
+1. Search by Type (EV/Petrol/Deisel) : 
+2. Search by Company (Kia,Hundai,Maruti...)
+3. Search by Car (Seltos,Sonate,i10,creata....)
+4. Search by price 
 
 
