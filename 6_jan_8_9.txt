@@ -717,3 +717,16 @@ filter
 
 Lab Task : replace function with lambda in filter example
 
+21st March 
+
+File handling
+
+---File open
+-File-read ---readline,readlines ,read
+--write  -write,writelines
+
+--close
+
+---with keyword
+---LAB Task use readLine and readLines
+2. Copy file 
