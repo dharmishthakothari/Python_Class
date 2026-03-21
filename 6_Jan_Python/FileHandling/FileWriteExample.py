@@ -1,0 +1,6 @@
+file=open("File1.txt","a")
+file.write("\nThis is Saturday. \nThis is 21st March.")
+file.write("\nThis is Python class .\nThis is Morning session")
+#file.write("Have a greate day!!!!")
+print("Data Written Successfully")
+file.close()
