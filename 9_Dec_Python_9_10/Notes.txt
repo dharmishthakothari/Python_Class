@@ -595,4 +595,32 @@ Menu driven program
 3. Search by Car (Seltos,Sonate,i10,creata....)
 4. Search by price 
 
+23rd march
+---
+List
+Tuple
+Set
+Dictionary
 
+Dictionary comprehestive  ----
+
+
+function ---->  block of code
+                to perfrom specific task 
+				input,print,len,upper.....(build in)
+
+			in-built or user defined 
+
+def function_name():
+		block_of_code
+
+
+calling function 
+------function name
+------function parameter
+------function return 
+
+
+check nubmer is even or odd
+
+LabTask : create function called getSquareArea,getRectagleArea,getCircleArea and call 
