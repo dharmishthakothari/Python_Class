@@ -100,5 +100,35 @@ Lab Task -----
 1. Arithmatic operators with float values +,-,*,/
 2. read logical operators  
 
+23rd March
+%  (modulus) --- reminder
+//  floor division --- int
+** (expoenet) ---power 
+
+Accept 2 numbers first base and second power and print answer.
+lab Task ---- // , % 
+
+---relational operator --- >,<,>=,<=
+true/false
+
+logical operator ---- and or not
+
+conditional stmt ---- enter your age 
+age>18
+if stmt 
+if condition:
+  block of code
+
+----check user age is eligible for votting 
+
+
+LAB TASK : 
+1. Accept number from user and check number is divisable by 5 or not
+2. perform simple interest (p*r*n/100)
+3. Convert celcisus to fenhiet 
+4. Accept radius from user and find area of circle.
+
+
+
 
 
