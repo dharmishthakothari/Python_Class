@@ -730,3 +730,24 @@ File handling
 ---with keyword
 ---LAB Task use readLine and readLines
 2. Copy file 
+
+24th march
+
+Lab Task :
+---- read whole line with readLine() (use while loop)
+
+--- read file from middle of data 
+
+json file
+--- load , dump
+
+Exception 
+--- breaks the normal flow of execution 
+--- exception occurs due to many reason 
+    ---input invalid  ---valueError
+    ---accessing incorrect key ---KeyError
+   --- divide by zero  --- ZeroDivisionError
+   ---variable is undefined ----NameError
+   ---file read that doesn't exist ---FileNotFoundError
+try and except
+
