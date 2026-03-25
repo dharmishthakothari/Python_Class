@@ -128,6 +128,63 @@ LAB TASK :
 3. Convert celcisus to fenhiet 
 4. Accept radius from user and find area of circle.
 
+25th March 
+---   cel*9/5+32
+user input cel
+20 
+ans=cel*9/5+32
+
+-----operators  (Arithmatic , logical , conditional , 
+---conditional stmt (if , if-else , if-elif 
+
+--enter marks from user 
+1-100 
+100 - 70 'A Grade
+69- 60  B Grade
+59 - 45 C Grade 
+45 Fail 
+
+enter age from user and print msg
+-36
+
+0-2 - infant
+3-18 - minor
+19-50 adult
+51-70 seniur
+70 above super senior 
+
+
+if-with in  (nested if 
+if 1-105
+
+-- donate blood ---age , weight 
+18 
+55
+if(age>=18 and weight>=55)
+print("Eligilbe to donate blood")
+else
+print("Not Eligilbe to donate blood")
+
+conditional stmt ---if , if-else , if-elif and nested if )
+
+assignment operator   +=,-=,*=,/=,
+a=10
+name="dharmishtha"
+increment a(varible) value by 5 
+a=20
+a=a+5  (a+=5)
+a=20+5
+a=25
+decrement by 7
+a=a-7 (a-=7)
+a=25-7
+a=18
+
+Lab Task : in single file perform all assignment operatos 
+
+bitwise , memnership and identity 
+
+
 
 
 
