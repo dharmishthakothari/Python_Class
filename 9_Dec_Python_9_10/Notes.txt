@@ -624,3 +624,35 @@ calling function
 check nubmer is even or odd
 
 LabTask : create function called getSquareArea,getRectagleArea,getCircleArea and call 
+
+25th march 
+
+Different types of parameters in python 
+1. Default parameter			---- These parameters are at then end of the parameters 
+2. Variable arguments 			* args 
+3. keyword Argument				--
+
+lambda function ---inline,short when there is no complex logic at that time you can use lambda fuction
+---always have single expression and may multiple arguments
+def add(x,y):
+	return x+y
+
+lambda argument : expression
+lambda x,y,z:x+y+z
+
+
+map ? 
+
+create function square and perform square to list and store into another list 
+lst1=[1,2,3]
+
+output --- sq_list1=[1,4,9]
+
+map ---- function apply kare che iterator ma 
+eg. mare jode function square no ane  ae function mare jode ek list che aana baddha element apply karavu che to hu map use karish
+
+----mare jode city nu list che and mare baddhi city upper case ma convert karavi che 
+upper function aakhi list ma apply karavuche to mare use pade map function.
+
+map(function,iterable)
+map(str.upper,lst_city)
