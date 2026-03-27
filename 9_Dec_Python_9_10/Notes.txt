@@ -656,3 +656,25 @@ upper function aakhi list ma apply karavuche to mare use pade map function.
 
 map(function,iterable)
 map(str.upper,lst_city)
+
+27th March
+
+---filter  ---data filter based on condition , filter(function,iterable) 
+--reduce ---when ans is in single value  ,commulative value ,
+		reduce(function,iterable)
+	function --- they have 2 arguments 
+	return single value
+	library import functool
+
+ Given a list of numbers, find the sum of the squares of all even numbers.
+
+list
+even
+square - sum 
+hint : filter , map ,reduce and lambda 
+
+--- list fanrhit ans celcisu
+lst_fenhiet=[12,23,11,34,56]
+lst_celcisu=list(map(lambda num:.......,lst_fenhiet))
+
+convert ferenhiet to ceclsius if ferenhit is more then 20
