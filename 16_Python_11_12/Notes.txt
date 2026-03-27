@@ -184,8 +184,58 @@ Lab Task : in single file perform all assignment operatos
 
 bitwise , memnership and identity 
 
+27th March 
+--
+match case ---when we have no of conditions 
+
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+
+23
+age>=18 and age<=25
+18>=age<=25
+
+if 3<=m<=18:
+
+3<=15<=18 == true
+3<=4<=18 === true
+3<=29<=18 === false
+
+LAB TASK : grading program with match case 
+
+bitwise  ---- 
+
+5  -- decimal 
+binary (0/1) 
+                       2^4        2^3          2^2         2^1                2^0
+                      16           8             4            2                  1
+                       0            0              1            0                 1
+                        0            1            1            1                  1
+                        0            1            0            0                  1 
+
+& , | , ! , << , >> 
+
+  1111
+  1010
+& 1010  === 10
+| 1111 ==== 15
+
+1111
+0010
+0010
+1111
+
+6 0110
+2 0010
+  0110
+  0010
 
 
+membership ----- 
+in-not in
 
-
-
+1. No of days 30  ----April, June , September,November
+2. No of days 31   --- Januarey,march , May , july ,August,Octomber,December
+3. no of days 28/29 ---frebruary 
