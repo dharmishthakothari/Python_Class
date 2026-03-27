@@ -239,3 +239,10 @@ in-not in
 1. No of days 30  ----April, June , September,November
 2. No of days 31   --- Januarey,march , May , july ,August,Octomber,December
 3. no of days 28/29 ---frebruary 
+
+LAB TASK : grading program with match case 
+--read loops 
+--check year is leap or not
+--number is divisable by 5 and 7
+--practisse all operators 
+
