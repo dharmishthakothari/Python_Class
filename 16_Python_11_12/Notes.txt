@@ -246,3 +246,29 @@ LAB TASK : grading program with match case
 --number is divisable by 5 and 7
 --practisse all operators 
 
+28th March
+--identity operator --- is ,  not is
+
+LOOPS ---   ? repeat 
+1. for
+2. while 
+for var_name in range(start,end,step):
+  stmt
+  stmt
+  stmt
+for i in range(10):
+  print("Hello World")
+
+range(start,end,step)
+
+Print values from 1 to 1000 with 100 interval ,values are in reverse form
+1. 1000 - 1 , interval 100 
+
+--- print even number from 1-100
+--muplication table 
+5
+5 * 1 =5
+5 * 2 = 10
+
+while - break - continue -pass ---monday 
+
