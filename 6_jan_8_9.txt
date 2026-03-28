@@ -751,3 +751,24 @@ Exception
    ---file read that doesn't exist ---FileNotFoundError
 try and except
 
+28th March
+-- try - except -finally - else
+
+we can have multiple except
+try if error in try then except block execute otherwise else will execute 
+finally ----whether error is there or not finally always executes.
+
+class 
+
+OOPS 
+--- class / object
+--inheritance
+--Polymorphisum
+--Encapsulation
+--Abstraction
+
+class is blueprint , contains data and funciton, not real entity 
+object is real entity and it is type of class
+
+
+labtask : Perform practicals of Exceptions and read OOPS concept
