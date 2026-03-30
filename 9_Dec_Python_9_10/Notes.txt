@@ -694,3 +694,41 @@ lst_city=['ahmedbad','baroda',['Mumbai','Kolkata']]
 
 lst_city.extends(lst_city1)
 lst_city=['ahmedbad','baroda','Mumbai','Kolkata']
+
+---- functions 
+different parameters 
+map
+lambda
+filter
+reduce 
+
+---module 
+python file whic contains functions
+
+
+sys
+os
+datetime
+requests
+math
+random
+
+LabTask : Print filename and check if it is subfolder then display files of that folder also.
+basic ---
+Function_Example ---
+
+Lab Task : Create nested directories
+os.makedirs("parent/child/grandchild")
+Remove a directory
+os.rmdir("empty_folder")          # must be empty
+os.removedirs("parent/child")     # removes empty parents too
+
+Working with files
+Rename a file or folder
+os.rename("old.txt", "new.txt")
+
+Delete a file
+os.remove("file.txt")
+
+
+
