@@ -678,3 +678,19 @@ lst_fenhiet=[12,23,11,34,56]
 lst_celcisu=list(map(lambda num:.......,lst_fenhiet))
 
 convert ferenhiet to ceclsius if ferenhit is more then 20
+
+30th March
+
+---lst_city=['ahmedbad','baroda']
+lst_city.append('delhi')
+lst_city=['ahmedbad','baroda','delhi']
+
+lst_city.extends('delhi')
+lst_city=['ahmedbad','baroda','d','e','l','h','i']
+
+lst_cty1=['Mumbai','Kolkata']
+lst_city.append(lst_city1)
+lst_city=['ahmedbad','baroda',['Mumbai','Kolkata']]
+
+lst_city.extends(lst_city1)
+lst_city=['ahmedbad','baroda','Mumbai','Kolkata']
