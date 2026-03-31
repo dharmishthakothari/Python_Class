@@ -772,3 +772,18 @@ object is real entity and it is type of class
 
 
 labtask : Perform practicals of Exceptions and read OOPS concept
+
+31st march
+---  OOPS 
+class/object    ---- self  ----- refer to the current object 
+                     __init__   ---- To initlize the object / constructur / it calles automatically 
+
+
+create class called Car contains 2 members called brandname and speed ,
+                                  1 function called drive which prints brandname and speed of the car
+
+winthdrow ---check balabnce and if insufficent balabnce then InsuffienceBalanceError/Exception throw
+
+inheritance :- Property of one class can use property of another class.
+
+
