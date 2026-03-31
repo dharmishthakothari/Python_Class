@@ -304,3 +304,71 @@ break
 
 lst=['Ahmebabad','Baroda','Surat']
 for 
+
+31st March 
+---continue ---skip the current iteration based on condition 
+--pass  --- placeholder 
+
+1. factorial number 
+no=5 --- 1*2*3*4*5
+no=10 --- 1*2*3*4*5*6*7*8*9*10 === 
+-------> ans=ans*i === ans=1*1 = 1
+----->ans =ans*i ==== ans=1*2 =2
+--------ans*i ==== ans =2*3 = 6
+                      6*4=24
+
+
+1. take input from user
+2. condition 
+
+Sum of n number 
+1. 
+
+Prime number ----- no is divisable by 1 and itself
+1
+7
+5
+29
+17
+13
+11
+
+1. input from 
+input is 21 ---- 
+21%2==0 
+21%3==0 break ---number not prime 
+
+17
+17%2==0 
+17%3===0
+17%4==0
+...
+17%16===0
+17 prime number 
+
+8
+8%2==0 --not prime 
+
+15
+15%2==0 
+15%3==0 not prime
+
+55
+55%2==0
+55%3==0
+55%4==0
+55%5==0 not prime
+
+13
+13%2==0
+13%3==0
+13%4==0
+13%5==0
+....
+13%12==0 Prime number
+
+
+LabTask : prime number with for loop
+2. sum of 100 even numbers (for/while)
+3. sum of numbers those divisable by 5 and 7 between 1000-2000 (for/while)
+
