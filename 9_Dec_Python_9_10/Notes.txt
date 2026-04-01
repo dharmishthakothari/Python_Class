@@ -730,5 +730,23 @@ os.rename("old.txt", "new.txt")
 Delete a file
 os.remove("file.txt")
 
+1st April
+pip install numpy
+pip install pandas
+pip install django
 
+
+--- File ?
+open ---path,mode 
+read  ---- read , readline , readLines 
+write ---write,writelines
+tell/seek 
+json file
+dump
+load
+
+with keyword --- opening /closing 
+LabTask : Enter user data into file until user enters "END"
+(while , input , write)
+---read from one and write it into another file (copy)
 
