@@ -786,4 +786,53 @@ winthdrow ---check balabnce and if insufficent balabnce then InsuffienceBalanceE
 
 inheritance :- Property of one class can use property of another class.
 
+2nd April 
+---Parent - child 
+inheritance --- 'is a' relationship
+student is person
+Employee is person
+Manager is Person
+Doctor is Person
+Schooter is Vehicle
+Car is a Vehicle
+Truck is Vehicle
+Rectagle is Shape
+Circle is Shape
+Square is Shape
+REUSABILITY 
+
+---Inheritance Types 
+i)Single Inheritance 
+ii) Multilevel 
+iii)Multiple 
+iv) Hierchical 
+v) Hybrid  
+
+Polymoprsium ---- Many forms 
+Ability to take more then one form is Polymorphisum 
+Netra - Daughter , Student , Sister 
+
+2 types 
+Compile Time/static binding --- method overloading (same method name ,different arguments )
+                                It is not supported by python directly .
+                                thru variable lenght Parameters *args
+                                Operator Overloading 
+                                1+12 , 34.2323+65.3434 
+                                s1=Student(),s2=Student() s1+s2 
+Runtime /dynamic binding -- method overriding (same method , same parameters)
+
+create Point class having data x and y initlize and create display 
+
+Operator Overloading 
+>=,<=,==,!= , +,%
+
+LabTask : Inheritance read /Practicals 
+>=,!= operator overload Point
+
+
+Gen-Ite 
+RegularExpe
+
+
+
 
