@@ -1,0 +1,6 @@
+file=open("city.txt","r")
+file1=open("city_copy.txt","w")
+data=file.read()
+print(data)
+file1.write(data)
+print("Data copied ")
