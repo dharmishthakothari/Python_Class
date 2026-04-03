@@ -750,3 +750,20 @@ LabTask : Enter user data into file until user enters "END"
 (while , input , write)
 ---read from one and write it into another file (copy)
 
+3rd April 
+-- json 
+
+Exception --- break the normal execution of flow 
+---when giving incorrect input
+--accessing invalid key
+--number is divide by 0
+
+try , except , finally , else 
+
+try
+except			--- multiple except block 
+
+finally ---- will always executed whether error occur or not
+
+
+custome 
