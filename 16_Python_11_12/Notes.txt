@@ -532,3 +532,34 @@ in build method
 --slicing
 upper , lower ,title ,capitalise
 
+-- 3rd April
+
+1* * * *
+2* * *
+3* *
+4*
+5* *          i=5 num4   1
+6* * *        i=6 num4   2 
+7* * * *      i=7 num4   3
+
+LabTask :
+input=4
+    *
+   **
+  ***
+ ****
+String 
+title , capilized , upper , lower
+email="test@gmail.com"
+email.endswith()
+
+Lab Task : find the length of each word from string
+---use count ke paramter start - end 
+dharmishtha kothari 
+a start 5 
+--use maxsplit in split 
+This is Python class
+4
+maxsplit =2 
+This
+is Python class
