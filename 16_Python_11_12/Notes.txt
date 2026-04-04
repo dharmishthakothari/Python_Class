@@ -563,3 +563,16 @@ This is Python class
 maxsplit =2 
 This
 is Python class
+
+4th April
+---
+Tops length = 4
+T --0 
+o  --1
+p--2
+s--3
+
+---LabTask : -tive indexing
+isdigit , is alnum,isalpha,lstrip
+
+
