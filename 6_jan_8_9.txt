@@ -833,6 +833,30 @@ LabTask : Inheritance read /Practicals
 Gen-Ite 
 RegularExpe
 
+4th April 
+overrding /run time poly.
+---same method same arguments 
+Lab Task : override getArea for Circle and Square class
+
+--Abstraction 
+- showing essential details and hiding other details
+--summary
+------ abstract class and abstract method
+abstract method 
+    it must be implemennted in subclass
+    @abstractmethod
+
+absract class 
+---we can not create object
+-contains abstract and non abstract method
+---extends ABC
+
+---abstract class vs class
+
+Lab Task : create Bank class having abstract method getInterestRate
+2 subclasses Axis and SBI which returns thr respective interest rate
+
+
 
 
 
