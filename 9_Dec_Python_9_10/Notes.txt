@@ -767,3 +767,45 @@ finally ---- will always executed whether error occur or not
 
 
 custome 
+
+6th April 
+Exception ? 
+
+custom exception we can create our own exception 
+----
+class InvalidAgeError(Exception):
+	pass
+
+password lenght ===5 itmust contains 1 digit ,1 special character
+
+binary files work
+rb,wb
+
+--- OOPS 
+class/object
+Inheritance
+Polymorphisum
+Encapsulation
+Abstraction
+
+1. class/object 
+	class is blueprint .
+	class is collection of object
+	class has data members and member functions
+
+	Person as class
+	--name,age,address,email
+	--informationShowing, gettingInfor
+
+	Human 
+		hands,legs , head , nose
+		speaking , reading , listning .....
+
+Object --- real entity 
+	object is type of class
+	object has it's own data
+
+LabTask :
+__init__ read 
+self read
+Inheritance 
