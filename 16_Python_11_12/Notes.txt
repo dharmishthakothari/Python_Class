@@ -575,4 +575,65 @@ s--3
 ---LabTask : -tive indexing
 isdigit , is alnum,isalpha,lstrip
 
+6th April 
 
+-tive indexing
+
+slicing --- part of something 
+Tops technogiles  ---- 2=10 (8 letters)
+upto 5 letter
+8th leeters  se sare 
+name[start:end:step]
+name="Vansh"
+V 0
+a 1
+n 2
+s 3
+h 4
+
+name[2:5] nsh
+name[1:5]ansh
+name[:3]Van
+name[3:]sh
+
+Shivam ----- mhivaS
+Heeya --- aeeyH
+Dharmishtha --- aharmishthD
+
+f_letter=name[0]
+m_string=name[1:len(name)-1]
+l_letter=name[len(name)]
+
+
+LabTask : Tops   ---- psTo
+ Shiva --- ivaSh
+
+List ---Tuple ---Set and Dictionary 
+List --- ordered and mutable(change)
+      ---indexing 
+List is collection of element
+
+list_numbers=[11,22,33]
+lst_city=['ahmedabad','surat','rajkot']
+lst_mix=[1,2,'ahmedabad','dharmishtha',23.22]
+--[]
+numbers="dharmishtha"
+numbers=["dharmishtha"]
+
+name=Dharmishtha
+Dharmi
+Shivam
+Shi
+
+T  0    -9
+o  1    -8
+p  2    -7
+s  3    -6
+   4    -5
+t  5    -4
+e  6    -3
+c  7    -2
+h  8    -1
+
+LabTask : -ve slicing 
+list methods (append , insert , pop , remove)
