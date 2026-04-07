@@ -637,3 +637,10 @@ h  8    -1
 
 LabTask : -ve slicing 
 list methods (append , insert , pop , remove)
+
+7th April 
+--- lst   ===[]
+any elements ---- int , string , flost
+
+
+
