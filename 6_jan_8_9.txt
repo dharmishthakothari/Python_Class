@@ -856,6 +856,16 @@ absract class
 Lab Task : create Bank class having abstract method getInterestRate
 2 subclasses Axis and SBI which returns thr respective interest rate
 
+7th April
+- Regular Expression ?...
+valid email address?
+valid cno   ---- contryt code - 10 digit 
+string pattenr 
+
+ r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+
+pattern = r"^\S+@\S+\.\S+$"
+
 
 
 
