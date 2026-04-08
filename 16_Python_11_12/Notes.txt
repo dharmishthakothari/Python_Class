@@ -642,5 +642,46 @@ list methods (append , insert , pop , remove)
 --- lst   ===[]
 any elements ---- int , string , flost
 
+8th April 
+---methods 
+append-extend
+pop
+remove
+index
+slicing
+---clear()
+del 
+
+append vs extend
+remove vs pop
+sort vs sorted
+
+lst_city=['asas','vbvcb','asdasd']
+print each city with index (use for loop)
+
+find give city is in list or not
+---LabTask : count seach city in list
+---count no of vowels in each city
+Lab Task : shoppinList
+Menu 
+1. Add Item 
+    Which item : grocery 
+2. update
+    press 1 for item name
+    press 2 for index 
+        1 which item you want to update : gorcery 
+          Enter updated item : washing powerder
+          Your list has been updated
+
+3. delete
+    
+4. search
+5. View List
+6. Exit
+
+
+
+
+
 
 
