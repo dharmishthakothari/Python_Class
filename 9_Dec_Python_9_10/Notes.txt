@@ -806,6 +806,45 @@ Object --- real entity
 	object has it's own data
 
 LabTask :
+
 __init__ read 
 self read
 Inheritance 
+
+8th April
+__init__ --- to initilize object 
+self ---- > refer to current object
+
+__init__
+__str__ 
+__add__
+__lt__
+dunder methods special methods 
+
+Inheritance :---- property of one class can use property of another class
+---resuability 
+Person 
+Employee is Person
+Student is Person
+Doctor is Person
+
+Types of Inheritance 
+1. Single Inehieritance 
+one parent one child 
+2. multilevel inheritance
+grand parent -- Parent --child
+3. multiple inheritance 
+mother/father -child
+4. Hierchical inheritance
+one parent 2 child 
+5. Hybrid 
+
+Shape having one method getArea which return 0 
+Rectangle class calculate area (use getArea method of Shape class)
+Square class calculate area (use getArea method of Shape class)
+
+Polymorphisum ----
+Method overriding ---- same method name , same arguments 
+
+
+
