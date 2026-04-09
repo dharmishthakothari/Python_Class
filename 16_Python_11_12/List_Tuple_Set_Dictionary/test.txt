@@ -1,0 +1,5 @@
+What is condition statement?
+what is while and for loop?
+what ih the use of input / type function
+scenario where i can use for loop and while loop
+what is string slicing and give example of input
