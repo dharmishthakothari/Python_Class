@@ -866,6 +866,10 @@ string pattenr
 
 pattern = r"^\S+@\S+\.\S+$"
 
+9th April 
+---
+Generator
+yield vs return 
 
 
 
