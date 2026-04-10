@@ -738,6 +738,21 @@ row 9 --- col 1,2,3,4,5
 & & 
 & & &
 
+10th April 
+
+List method , indexing , slicing 
+---Tuple 
+immutable // change 
+()
+
+set 
+
+Dictionary ==== 
+{key:value,key1:value1,key2:value2,key3:value3}
+Key must be unique
+value may be duplicate
+
+keys 
 
 
 
