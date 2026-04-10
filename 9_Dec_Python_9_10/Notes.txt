@@ -847,4 +847,40 @@ Polymorphisum ----
 Method overriding ---- same method name , same arguments 
 
 
+10th April 
+class/objects
+inheritance
+Polymorphisum  ----- Ability to take more then one form 
+there are 2 types of Polymorphisum 
+i) Compile time/static binding
+		Method overloading   ---- same method name , diffrent argument ---directly not supported by ---with variable argument 
+			studentDetails("dharmishtha",22,230)
+			studetnDetails("dharmishtha",22,120,"dharmishtha@gmail.com")
+		Operator Overloading  ---- to use by objects 
+		dunder methods __add__ 
+					 __gt__
+					__eq__
 
+ii) Run time/dynamic binding
+-- method overriding
+LabTask : 
+	Static vs Dynamic binding
+	Point (x,y) Overload +,-,eq 
+
+Abstraction
+ 	To hide details and show only essential details 
+	--- car , mobile 
+
+abstract class , abstract method
+ABC ---extends
+@abstractmethod
+
+abstract class  ---- can not instatiate ---can't create object
+				---- contains abstract and non abstract method
+
+abstract method --- if class contains abstract method then that class becomes abstract class.
+				---- abstract methods must be overridden in sub class.
+
+
+
+	
