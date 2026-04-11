@@ -754,7 +754,32 @@ value may be duplicate
 
 keys 
 
+11th April 
+---dictionary 
+ ---
+name ---- 
+email 
+specilized
+Subject
+      C
+      C++
+      Python 
 
+5 dtudent 
+{
+
+1st LabTask : 
+total for multiple students 
+Nadini - -300
+Divya ---230
+Shivam  ---250
+
+2nd task 
+find total_salary for multiple employees
+
+
+
+}
 
 
 
