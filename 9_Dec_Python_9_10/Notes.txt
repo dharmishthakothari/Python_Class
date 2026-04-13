@@ -882,5 +882,32 @@ abstract method --- if class contains abstract method then that class becomes ab
 				---- abstract methods must be overridden in sub class.
 
 
+13th April
+---Class/Object
+--Inheritance
+--Polymorphisum
+--Abstraction
+
+abstract class vs concrete class/class
+abstract method vs method
+
+---Encapsulation 
+wrapping up of data and member function into single unit.
+data - function unit /class
+
+private  __
+
+---Class/Object
+--Inheritance
+--Polymorphisum
+--Abstraction
+--Encapulation
+
+Generator and Iterator
+yield
+
+yield vs return
+
+
 
 	
