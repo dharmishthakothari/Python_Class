@@ -818,6 +818,58 @@ LabTask :
 3. Search by city
   ahmedabad
 
+14th April 
+---List comprehensive 
+
+function/module/
+function ----> To perform specific task,
+               print
+                type
+                input
+                int....
+              in built ---- append , index, count , input , type --already available 
+              User defined ---- we are going to create function 
+
+  def 
+
+LabTask : 1. create function which print number is postive , -ve or zero
+          2. create function which print number is prime or not
+
+3 . car_data
+EV
+  Hundai
+      i10   price , model
+      creta    price , model
+
+  TATA
+      nexon  price , model
+      Harrier   price , model
+
+Petrol
+    Hundai
+      i10  price , model
+      creta price model
+      i20 price , model
+    Maruti 
+      Baleno price , model
+      Swift  price , model
+      Breeza price , model
+
+Diesal 
+
+         Hundai
+      i10  price , model
+      creta price model
+      i20 price , model
+    Maruti 
+      Baleno price , model
+      Swift  price , model
+      Breeza price , model
+
+1. See Ev Cars
+2. Maruti 
+3. Switt 
+          
 
 
 
