@@ -870,8 +870,31 @@ Diesal
 2. Maruti 
 3. Switt 
           
+15th April
+create function square which print squre of given number
+
+--parameters 
+--return 
+function may have parameters , may return 
+
+1. number postive to square 
+    1. check no +
+    2. square 
 
 
+function
+   name
+   parameeters
+    return 
+
+Parameters types 
+3 type 
+1 default
+2 variable arguments (*args)
+3 keyword arguments (**kwargs)
+
+LABTASK : read function 
+--will check git link 
 
 
 
