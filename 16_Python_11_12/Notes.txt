@@ -896,5 +896,20 @@ Parameters types
 LABTASK : read function 
 --will check git link 
 
+16th April 
+--Default Parameters
+--Variable Argument (*args)
+--Keyword Argument (**kargs)
+
+Lab Task : convert list of ferienhit into celsius (map)
+
+
+
+lst_number=[1,2,3,4]
+lst_power=[2,2,2,2]
+ans=[1,4,9,16]
+pow
+
+
 
 
