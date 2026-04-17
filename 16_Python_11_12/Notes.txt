@@ -910,6 +910,25 @@ lst_power=[2,2,2,2]
 ans=[1,4,9,16]
 pow
 
+17th April 
+--- map --- is used to apply perticular function to iterator 
+square function i can appy to [1,2,34]
+upper function i can apply to ['test','test123','ttttt','fsdffd']
+
+filter ---- is used to appy perticular function - return true  to iterator 
+
+emails = ["user@example.com", "invalid@", "test@domain.com" , "test@gmail.com"]
+
+reduce --- 
+
+
+labtask : Given a list of numbers, find the sum of the squares of all even numbers.
+  map , filter , reduce 
+
+lambda function  
+
+
+
 
 
 
