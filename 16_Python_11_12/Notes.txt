@@ -927,8 +927,23 @@ labtask : Given a list of numbers, find the sum of the squares of all even numbe
 
 lambda function  
 
+18th April
+
+Annonimus function (without name)
+single line 
+simple logic apply then this lambda 
+
+Syntax
+lambda argument : expression 
+
+argument may be more while epression is must one
 
 
-
+---module 
+python file 
+3 types of module
+1. in build    
+2. user defined 
+3. third party 
 
 
