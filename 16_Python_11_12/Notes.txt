@@ -946,4 +946,40 @@ python file
 2. user defined 
 3. third party 
 
+24th April
+---- map , filter ,reduce 
+---lambda function
+---moduke 
+-- import 
+
+module ? ---- simple python file , generally have methods/function 
+
+package ---- 
+
+os
+sys
+datetime
+random
+
+-----------------------------------------
+File Handling --- 
+LabTask : writelines
+
+with ---- close 
+read ?  --- read
+LabTask : read whole file with readline() 
+---while 
+--- end
+--print
+
+
+write
+writelines
+read
+readline
+readlines
+
+For file location you can use tell and seek functions 
+
+
 
