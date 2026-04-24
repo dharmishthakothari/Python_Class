@@ -1,0 +1,6 @@
+file=open("first.txt","w")
+# file.write("This is Python class\n")
+# file.write("This is File chapter\n")
+data=input("Enter data that you want to write in file ")
+file.write(data)
+file.close()
