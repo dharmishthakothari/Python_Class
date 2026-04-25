@@ -981,5 +981,30 @@ readlines
 
 For file location you can use tell and seek functions 
 
+25th April 
 
+--File reading
+---File writing
+
+copying a file 
+read from one file and write it into another file
+
+
+Exceptions ?
+----- breaks normal execution flow 
+---- unwanted event 
+---- Enter number ---werwerer
+---12/0 
+---reading file which not exsit
+---invalid key access
+ValueError
+ZeroDivisionError
+FileNotFoundError
+KeyError
+
+try 
+except
+finally
+else
+raise
 
