@@ -1,0 +1,21 @@
+27th April 
+-- Database Connectivity (sqlite and Mysql CRUD)
+--Tkinter  
+  --desktop application - GUI
+  --- notepad  --menus , textarea , 
+  ---caclulator --- menus , button , textbox
+
+1 . componenets --- button , label , text box , ....
+2. Layout --- 
+
+
+2 labels 
+2 text box --- entry
+1 button 
+printed addition on console 
+now i want to add on lables 
+run time set value on label when i click on button 
+
+variable --- string variable tk.StringVar() set this variable into lable i.e textvariable
+
+LabTask : place +,-,* , / buttons and print output accourding to button pressed
