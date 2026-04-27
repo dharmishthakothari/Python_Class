@@ -1008,3 +1008,56 @@ finally
 else
 raise
 
+27th April 
+---- 
+Exception handling ----  try , except , finally ,raise , else 
+
+except --- when error occurs then control is passed to except block 
+there may may be multiple except block
+
+finally --- whether exception occur or not finally always executes 
+else ---- when there is no exception occur at that time else executed
+
+
+---custom exception ----we can create our own exception 
+class 
+
+exception must extends Exception class
+
+Lab task : You have create custom exception PasswordValidationError 
+length === 6 letter
+contains one lettter as special character @ , % ,#///
+input --- qwertyu  --- invalid
+input --- qwer@123  --- valid 
+input --- ererer%trtr --- valid
+
+----
+OOPS ---- 
+class / object
+      1.    class --- is blueprint
+                      structure / actual entity 
+                      collection of object
+                      having  --- data members and functions
+
+            Vehicle   ---- no_of_wheels , color , price  (data)
+                            drive   (function )
+            Person ----- pid , name ,c_no --- (data)
+                            gettting_details , displaying_details(function)
+
+            Human ----- hands , legs , head , nose 
+                                running , speaking , eating .....
+
+      Vehicle ---- object real entity scooter
+                            car 
+      Person dharmishtha , Nandini 
+
+--- Employee class --- eid , ename ,salary 
+method displayEmployee(eid,enam,salary)
+__init__ ---- use to inilize the object ,,,class data can pass
+call automatically 
+
+
+Polymorphisum
+Encalspulation 
+Inheritance 
+Abstraction 
