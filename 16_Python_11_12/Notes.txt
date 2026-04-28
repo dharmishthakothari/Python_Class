@@ -1061,3 +1061,42 @@ Polymorphisum
 Encalspulation 
 Inheritance 
 Abstraction 
+
+---28th April
+Class / Object  --- class blueprint/structure 
+                    collection of objects
+                    data and member functions
+object --- real entity 
+            each object have it's own data 
+
+
+Employee ---- 5 objects   --- eid ename salary department 
+
+getdetails 
+display 
+
+__init ---- 
+
+Book - class - isbnNo , title , auther , no_of_pages
+5 objects 
+
+Labtask : ---- same perfrom with Employee class 
+---find those employees who belogs to software department
+--- find those employyes who earn more then 20000
+Menu Driven Program 
+--- 1. Add Employee
+2. Delete Employee
+3. Update Employee
+4. Show all Employee
+5. Search Employee
+6. Exit
+
+
+Inheritance --- parent -- child
+A property of one class can use property of another class 
+--- reusability 
+
+LabTask : Complete Student class 
+
+
+
