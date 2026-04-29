@@ -1098,5 +1098,34 @@ A property of one class can use property of another class
 
 LabTask : Complete Student class 
 
+29th April 
+ - Class /Object 
+ - Inheritance   --- property of one class can use property another class
+
+
+Inheritance types 
+---Single Inheritance ---- one parent one child
+---Multilevel Inheritance ---  grandparent - parent - child
+---Multiple Inheritance --- 2 parent , 1 child 
+--Hirchical Inheritance --- same class different class main extends kiya hain 
+                            Person --- Employee
+                                    ---Student
+--Hibrid Inhertiance --- combine of any 2 inhritance 
+
+Polymorphisum  ---- Ability to take more then form Jay is student , jay is Friend , Jay is Son ...
+---Types 2 --- Static Bidning/Compile time Polymorpsim  --- 1. Method Overloadig 
+                same method name , different argument which is not supported directly in python
+                but we can achive thru variable arguments 
+                studentDetails('Nandini','Software')
+                studentDetails('Divya',120,'DA')
+                2. Operator Overloading 
+                  12+90 === 
+                  12.2323+23.34534 =
+                  e1+e2 
+        
+                Dynamic Binding / Run time Polymorphism --- eg method Overdding 
+
+
+
 
 
