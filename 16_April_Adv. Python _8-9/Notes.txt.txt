@@ -19,3 +19,16 @@ run time set value on label when i click on button
 variable --- string variable tk.StringVar() set this variable into lable i.e textvariable
 
 LabTask : place +,-,* , / buttons and print output accourding to button pressed
+
+
+--- 29th April
+
+--- text box 
+---button 
+--insert 
+
+--- To show data we have to use table -- List
+
+Lab Task : --- display msgbox when enter data into database
+2. connective must be once 
+3. search record in table 
