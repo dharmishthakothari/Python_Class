@@ -1126,6 +1126,25 @@ Polymorphisum  ---- Ability to take more then form Jay is student , jay is Frien
                 Dynamic Binding / Run time Polymorphism --- eg method Overdding 
 
 
+--30th April
+i)Class / Object
+ii) Inheritance ---    Property of one class can use property of anotehr class.
+iii) Polymorphisum --- Abiltiy to take more then one form 
+                    --- Complie time polymorphisum / Static binding ---- example method overloading , Operator Overloading
+                    -- Run time Polymorphisum /Dynamic binding --- example method overriding 
+
+iv ) Abstaction --- Showing only essential details and hiding other details 
+                    Car functionality of engine works but driving a car
+
+                    ABC , abstractmenthod 
+                    abstract class ---- not create object of abstract class
+                                    contains abstract and non abstract method
+
+              abstract vs concrete/normal class
+              abstrac method vs method
+
+
+                Lab Task : read abstraction , 
 
 
 
