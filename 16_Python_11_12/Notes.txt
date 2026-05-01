@@ -1146,5 +1146,19 @@ iv ) Abstaction --- Showing only essential details and hiding other details
 
                 Lab Task : read abstraction , 
 
+-- 1st May 
+Encapsulation   --- wrapping of data and functions together 
+    --- restricting directly access for data but we can have getter and setter method 
 
+public  --- default  -- access every where   
+private data can access to class only  __ 
+protected  _  you can access in class and in subclass/child class
 
+---Regular Expression 
+ 1. list of email address -- validared ?
+2. file c_no fetch ?
+3. valid c_no 
+4. words 
+based on certain pattern i want find/get values 
+import re --- module 
+methods 
