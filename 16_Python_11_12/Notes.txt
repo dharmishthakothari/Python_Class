@@ -1162,3 +1162,15 @@ protected  _  you can access in class and in subclass/child class
 based on certain pattern i want find/get values 
 import re --- module 
 methods 
+
+2nd May
+
+Generator ---- Memory Management 
+when the values are required at that time geenrate it
+yield 
+
+Diff - yeild/return 
+Yield - Pause
+return 
+
+
