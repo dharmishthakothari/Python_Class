@@ -1174,3 +1174,11 @@ Yield - Pause
 return 
 
 
+5th May 
+--Iterator
+
+
+---recursive --- function calles itself
+
+
+factorila logic ?
