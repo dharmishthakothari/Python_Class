@@ -32,3 +32,9 @@ LabTask : place +,-,* , / buttons and print output accourding to button pressed
 Lab Task : --- display msgbox when enter data into database
 2. connective must be once 
 3. search record in table 
+
+8th May
+Lab Task : when student is added then list is display
+
+Lab Task : Update 
+
