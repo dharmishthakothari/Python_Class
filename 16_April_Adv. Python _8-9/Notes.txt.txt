@@ -38,3 +38,10 @@ Lab Task : when student is added then list is display
 
 Lab Task : Update 
 
+13th May
+edit link mukavi padshe --- all records are show 
+edit form  -data  --- view to fetch perticular employee ---form update
+view 
+home page 
+
+
