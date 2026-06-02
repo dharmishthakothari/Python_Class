@@ -1,0 +1,51 @@
+2nd june
+----- Core Python 
+syntax 
+OOPS
+Collection
+functions
+String
+File handling
+Exceptions
+Logic building 
+Console based application 
+-----
+GUI based 
+Database 
+------
+Framework  - Django 
+Web Application 
+REST API
+
+Database --- sql
+Pyhon - database
+python data (name , age ,email ---insert table)
+Add Student record 
+name : Diya
+age : 20
+email : diya@gmail.com
+insert into student values ('Diya',20,'diya@gmail.com')
+
+---
+.py
+database 
+connectivity 
+sqlite connect  
+mysql 
+To connect with database steps
+i) connection object
+ii) cursor --- bridge database python
+iii) sql query 
+iv) commit
+v ) close
+Lab Task : 
+sid=int(input("Enter sid"))
+sname=input("Enter name")
+email=input("Enter email")
+(insert into student values(?,?,?),(sid,sname,email))
+
+
+
+
+
+
