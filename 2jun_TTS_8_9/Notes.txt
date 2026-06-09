@@ -44,7 +44,26 @@ sname=input("Enter name")
 email=input("Enter email")
 (insert into student values(?,?,?),(sid,sname,email))
 
+9th June
+---  Database connectivity
+---- SQLIte - MYSQL 
+--- CRUD operation 
+CONSOLE BASED APPLICATION
 
+--- GUI - Graphical User Interface
+
+textbox
+button
+checkbox
+list
+labels 
+
+Lab Task : 2 labels Enter First Name , Enter Last Name 2 Entry and button
+button clicked full name is displayed 
+
+Labtask : Use Buttons on gird layout 
+LabTask : put 4 buttons "+","-","*","/"
+          2 text box 
 
 
 
